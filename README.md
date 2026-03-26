@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kaustubh 👋
 
-<!--
-**kaustubh289/kaustubh289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student passionate about AI & Machine Learning  
+💻 Working on Deep Learning & Stock Prediction  
+🚀 Building real-world ML projects  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- MNIST CNN Digit Classifier
+- AI Stock Prediction System
+- khet AI
+- Twitter Sentiment Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python | TensorFlow | NumPy | ML
+
+## 📈 Currently Learning
+Deep Learning, Model Optimization
